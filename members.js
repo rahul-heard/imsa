@@ -24,7 +24,7 @@ window.SITE_MEMBERS = [
   {
     name: "Anurag Shanker",
     designation: "Music Supervisor",
-    photo: "",
+    photo: "assets/Member Photos/Anurag Shanker.jpeg",
     imdb: "https://www.imdb.com/name/nm5509743/",
     linkedin: "https://in.linkedin.com/in/anuragshanker",
     website: "http://www.anuragshanker.in/"
@@ -32,7 +32,7 @@ window.SITE_MEMBERS = [
   {
     name: "Faustin Missier",
     designation: "Music Supervisor",
-    photo: "",
+    photo: "assets/Member Photos/Faustin Missier.jpeg",
     imdb: "",
     linkedin: "https://in.linkedin.com/in/faustinmissier",
     website: ""
@@ -40,7 +40,7 @@ window.SITE_MEMBERS = [
   {
     name: "Malini Hariharan",
     designation: "Music Supervisor",
-    photo: "",
+    photo: "assets/Member Photos/Malini Hariharan.jpeg",
     imdb: "https://www.imdb.com/name/nm18302325/",
     linkedin: "https://in.linkedin.com/in/malini-hariharan-9414ab4",
     website: ""
@@ -56,7 +56,7 @@ window.SITE_MEMBERS = [
   {
     name: "Rafael Pereira",
     designation: "Lawyer, IP Strategist, Entrepreneur",
-    photo: "",
+    photo: "assets/Member Photos/Rafael Pereira.jpeg",
     imdb: "",
     linkedin: "https://in.linkedin.com/in/rafaelchrispereira",
     website: ""
@@ -64,7 +64,7 @@ window.SITE_MEMBERS = [
   {
     name: "Sandesh Rao",
     designation: "Music Supervisor",
-    photo: "",
+    photo: "assets/Member Photos/Sandesh Rao.png",
     imdb: "https://www.imdb.com/name/nm15184195/",
     linkedin: "https://in.linkedin.com/in/sandesh-rao-418517205",
     website: "https://heardmusic.in/"
@@ -72,7 +72,7 @@ window.SITE_MEMBERS = [
   {
     name: "Savinay Shetty",
     designation: "Music Supervisor",
-    photo: "",
+    photo: "assets/Member Photos/Savinay Shetty.jpeg",
     imdb: "https://www.imdb.com/name/nm12582628/",
     linkedin: "https://in.linkedin.com/in/savinay-shetty-5bb53223",
     website: ""
@@ -80,7 +80,7 @@ window.SITE_MEMBERS = [
   {
     name: "Vishruti Bindal",
     designation: "Music Supervisor",
-    photo: "",
+    photo: "assets/Member Photos/Vishruti Bindal.jpeg",
     imdb: "https://www.imdb.com/name/nm18097163/",
     linkedin: "https://in.linkedin.com/in/vishruti-bindal-7b9808101",
     website: ""
