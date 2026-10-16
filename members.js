@@ -48,7 +48,7 @@ window.SITE_MEMBERS = [
   {
     name: "Rahul Kannan",
     designation: "Music Supervisor",
-    photo: "",
+    photo: "assets/Member Photos/Rahul Kannan.jpg",
     imdb: "https://www.imdb.com/name/nm11512517/",
     linkedin: "https://in.linkedin.com/in/rahulkmusic",
     website: "https://heardmusic.in/"
