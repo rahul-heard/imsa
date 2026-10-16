@@ -26,7 +26,7 @@ window.SITE_CONTENT = {
   /* ---------- Hero / About (the landing section) ---------- */
   hero: {
     meta: ["Association in formation"],
-    headline: "Making space for music supervision.",
+    headline: "Making space for music supervision in India.",
     /* The first paragraph is set larger than the second. */
     paragraphs: [
       "Music is central to the way stories are told across Indian cinema, television, advertising, gaming and digital media. Yet the work of music supervisors often remains behind the scenes, and the profession is still not widely understood.",
