@@ -12,7 +12,8 @@ window.SITE_CONTENT = {
   wordmark: {
     line1: "Indian Music Supervisors",
     line2: "Association (IMSA)",
-    logoSrc: ""
+    logoSrc: "assets/logo.png",
+   footerLogoSrc: "assets/logo-light.png"
   },
 
   /* ---------- Navigation ---------- */
