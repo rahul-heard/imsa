@@ -30,8 +30,8 @@
 
   /* Logo heights. Change these two numbers to make the logo bigger or smaller.
      The width follows automatically, so the logo is never stretched. */
-  --logo-h: 2.25rem;
-  --logo-footer-h: 3rem;
+  --logo-h: 5rem;
+  --logo-footer-h: 6rem;
   --section-pad: clamp(4.5rem, 10vw, 9rem);
 }
 
