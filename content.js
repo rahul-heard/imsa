@@ -33,7 +33,7 @@ window.SITE_CONTENT = {
       "We are bringing people together to build awareness, share knowledge and strengthen music supervision in India."
     ],
     status:
-      "We are at an early stage and shaping this with the people who work in it. Music supervisors and music coordinators are at the heart of the association; everyone in music, screen and gaming is welcome to stay connected.",
+      "Music supervisors and music coordinators are at the heart of the association; everyone in music, screen and gaming is welcome to stay connected.",
     primaryCta: { label: "Get involved", href: "#express-interest" },
     secondaryCta: { label: "What is music supervision?", href: "#what-is-music-supervision" },
     /* Decorative timeline under the text. The four markers echo
@@ -65,11 +65,11 @@ window.SITE_CONTENT = {
       },
       {
         title: "Licensing and clearance of compositions and master recordings",
-        text: "Getting permission to use the composition, lyrics and/or the recording."
+        text: "Getting permission to use both, the song and the recording."
       },
       {
         title: "Coordination with artists, labels, publishers, composers and other rights holders",
-        text: "Being the point of contact for the people who own the music."
+        text: "Being the point of contact for the people who own or create the music."
       },
       {
         title: "Collaboration with directors, producers, editors and production teams",
@@ -81,7 +81,7 @@ window.SITE_CONTENT = {
       }
     ],
     note:
-      "Every project is different. A supervisor may take on some of this work, not all of it."
+      "Every project is different. A supervisor may take on a portion of this work, as required."
   },
 
   /* ---------- Focus areas ---------- */
@@ -113,8 +113,8 @@ window.SITE_CONTENT = {
 
   /* ---------- Members / founding group ---------- */
   members: {
-    eyebrow: "Founding group",
-    title: "Founding Group",
+    eyebrow: "",
+    title: "Members",
     subtitle: "The people behind the initiative.",
     intro: "",
     placeholderNote:
@@ -194,7 +194,7 @@ window.SITE_CONTENT = {
   /* ---------- Footer ---------- */
   footer: {
     description:
-      "A new association for music supervision in India.",
+      "Building a stronger connection between the music and media industries in India.",
     emailPlaceholder: "contact@your-domain.example",
     emailLabel: "Contact",
     cta: "Express your interest",
